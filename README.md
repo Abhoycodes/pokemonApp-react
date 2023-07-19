@@ -23,7 +23,7 @@ Copy and paste the commands from here .
   cd my-app
   npm start
 ```
-# View Deployment
+# [View Deployment](https://pokeknow.netlify.app/)
 
 *You can click the **Buttons** below.*
 
