@@ -30,15 +30,15 @@ Copy and paste the commands from here .
 
 <br>
 
-[![Button Click]][Link] 
+[![Button Click]][Link]
 [![Button Hover]][Link] 
 
 <br>
 
 [Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
-[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
 
-[Link]: # 'Link with example title.'
+[Button Click]:https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Link]: # ''
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
